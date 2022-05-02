@@ -1,0 +1,64 @@
+********* Vehiculo 1 *********
+MATRICULA: 6547DSV
+MARCA: BMW
+KILOMETROS: 75000
+PRECIO: 7500.0
+DESCRIPCION: 330CI IMPORTADO DE ALEMANIA EN 2016
+PROPIETARIO: Bernardino Garrido
+------------------------------
+********* Vehiculo 2 *********
+MATRICULA: 7564GBV
+MARCA: FORD
+KILOMETROS: 5000
+PRECIO: 15000.0
+DESCRIPCION: FIESTA IMPORTADO
+PROPIETARIO: Jose Tojeiro
+------------------------------
+********* Vehiculo 3 *********
+MATRICULA: 7865UFF
+MARCA: MERCEDES BENZ
+KILOMETROS: 800000
+PRECIO: 15000.0
+DESCRIPCION: SL500 CON MOITOS KM
+PROPIETARIO: Jose Tojeiro
+------------------------------
+********* Vehiculo 4 *********
+MATRICULA: 8543FCB
+MARCA: HONDA
+KILOMETROS: 755
+PRECIO: 30000.0
+DESCRIPCION: S2000 VENDIDO EN 2014
+PROPIETARIO: Bernardino Garrido
+------------------------------
+********* Vehiculo 5 *********
+MATRICULA: 8765LWS
+MARCA: VOLKSWAGEN
+KILOMETROS: 1000
+PRECIO: 60000.0
+DESCRIPCION: CALIFORNIA A ESTRENAR
+PROPIETARIO: Bernardino Garrido
+------------------------------
+********* Vehiculo 6 *********
+MATRICULA: 8767HGG
+MARCA: CHEVROLET
+KILOMETROS: 333
+PRECIO: 150000.0
+DESCRIPCION: CORVETTE 2020
+PROPIETARIO: PACO MANUEL
+------------------------------
+********* Vehiculo 7 *********
+MATRICULA: 9657KBZ
+MARCA: NISSAN 
+KILOMETROS: 60000
+PRECIO: 45000.0
+DESCRIPCION: GTR COMPRADO DE SEGUNDA MANO
+PROPIETARIO: Manuel Iglesias
+------------------------------
+********* Vehiculo 8 *********
+MATRICULA: 9765HCX
+MARCA: AUDI
+KILOMETROS: 50000
+PRECIO: 25000.0
+DESCRIPCION: A4 AVANT GERENCIA
+PROPIETARIO: Antonio Lopez
+------------------------------
